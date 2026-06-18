@@ -12,7 +12,7 @@ Using **SQL Server** for data analysis and **Power BI** for visualization, I dev
 
 ### Executive Overview Dashboard
 
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](Screenshot 2026-06-18 160352.png)
 
 *Replace the image above with your Executive Overview Dashboard screenshot.*
 
