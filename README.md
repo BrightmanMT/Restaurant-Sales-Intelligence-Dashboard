@@ -14,8 +14,6 @@ Using **SQL Server** for data analysis and **Power BI** for visualization, I dev
 
 ![Executive Dashboard](Screenshot 2026-06-18 160352.png)
 
-*Replace the image above with your Executive Overview Dashboard screenshot.*
-
 ### Best & Worst Sellers Analysis Dashboard
 
 ![Best Worst Sellers Dashboard](images/best_worst_dashboard.png)
