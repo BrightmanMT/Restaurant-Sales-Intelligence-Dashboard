@@ -16,7 +16,7 @@ Using **SQL Server** for data analysis and **Power BI** for visualization, I dev
 
 ### Best & Worst Sellers Analysis Dashboard
 
-![Best Worst Sellers Dashboard](Dashboarb.png)
+![Best Worst Sellers Dashboard](Dashboard.png)
 
 ---
 
