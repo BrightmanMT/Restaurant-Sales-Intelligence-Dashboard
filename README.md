@@ -12,11 +12,11 @@ Using **SQL Server** for data analysis and **Power BI** for visualization, I dev
 
 ### Executive Overview Dashboard
 
-![Executive Dashboard](Screenshot 2026-06-18 160352.png)
+![Executive Dashboard](MainDashboard.png)
 
 ### Best & Worst Sellers Analysis Dashboard
 
-![Best Worst Sellers Dashboard](images/best_worst_dashboard.png)
+![Best Worst Sellers Dashboard](Dashboard.png)
 
 *Replace the image above with your Best & Worst Sellers Dashboard screenshot.*
 
@@ -160,29 +160,6 @@ Designed interactive Power BI dashboards featuring:
 
 ---
 
-## 📂 Project Structure
-
-```text
-Restaurant-Sales-Analytics/
-│
-├── Dataset/
-│   └── pizza_sales.csv
-│
-├── SQL/
-│   └── Pizza_Sales_Queries.sql
-│
-├── PowerBI/
-│   └── Pizza_Sales_Dashboard.pbix
-│
-├── Images/
-│   ├── executive_dashboard.png
-│   └── best_worst_dashboard.png
-│
-└── README.md
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 ### Data Analytics
@@ -221,22 +198,6 @@ This project demonstrates how organizations can leverage data analytics and busi
 
 ---
 
-## 🖼️ Additional Screenshots
-
-### KPI Requirements
-
-![KPI Requirements](images/kpi_requirements.png)
-
-*Insert your KPI Requirements screenshot here.*
-
-### Dashboard Design Requirements
-
-![Dashboard Requirements](images/dashboard_requirements.png)
-
-*Insert your Dashboard Requirements screenshot here.*
-
----
-
 ## 👨‍💻 Author
 
 **Brightman Mutumwapavi**
@@ -246,7 +207,7 @@ Data Science Graduate | Data Analyst | Business Intelligence Enthusiast
 ### Connect With Me
 
 - GitHub: https://github.com/BrightmanMT
-- LinkedIn: *Add Your LinkedIn URL Here*
+- LinkedIn: *https://www.linkedin.com/in/brightman-mutumwapavi-aa567b28a/*
 
 ---
 
